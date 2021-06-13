@@ -1,0 +1,2 @@
+# Music-App
+The Web App Solution of Music Store made by Milind Krishna using ReactJs Library. The dependencies used here are "@material-ui/core": "^4.11.0",     "@material-ui/icons": "^4.9.1",     "@testing-library/jest-dom": "^4.2.4",     "@testing-library/react": "^9.5.0",     "@testing-library/user-event": "^7.2.1",     "react": "^16.13.1",     "react-dom": "^16.13.1",     "react-scripts": "3.4.1",     "react-spotify-player": "^1.0.4",     "spotify-web-api-js": "^1.5.0" 
